@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/harsh/.android/build-cache/ad0a8d881df058abf1c3e3a596f2cdf91f370eae/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/harsh/.android/build-cache/ad0a8d881df058abf1c3e3a596f2cdf91f370eae/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/harsh/.android/build-cache/ad0a8d881df058abf1c3e3a596f2cdf91f370eae/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/harsh/.android/build-cache/ad0a8d881df058abf1c3e3a596f2cdf91f370eae/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/harsh/.android/build-cache/ad0a8d881df058abf1c3e3a596f2cdf91f370eae/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/harsh/.android/build-cache/ad0a8d881df058abf1c3e3a596f2cdf91f370eae/output/res/anim/abc_slide_in_bottom.xml"
+    }
+]

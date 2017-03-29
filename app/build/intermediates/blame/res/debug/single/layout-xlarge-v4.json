@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/alarmsnotifier.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/alarmsnotifier.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/inputkeyboard.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/inputkeyboard.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/callsmake.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/callsmake.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/main.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/main.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/browser.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/browser.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/messagessent.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/messagessent.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/applications.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/applications.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/alarms.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/alarms.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/voicerecordercreate.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/voicerecordercreate.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/messagescompose.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/messagescompose.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/bookmarksdelete.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/bookmarksdelete.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/contactscreate.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/contactscreate.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/contacts.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/contacts.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/messagesinboxdeleteall.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/messagesinboxdeleteall.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/alarmsdelete.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/alarmsdelete.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/alarmscreate.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/alarmscreate.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/contactsdelete.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/contactsdelete.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/messages.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/messages.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/messagessentdeleteall.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/messagessentdeleteall.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/voicerecorderlist.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/voicerecorderlist.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/callsanswerreject.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/callsanswerreject.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/calls.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/calls.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/browserpageviewer.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/browserpageviewer.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/messagesdelete.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/messagesdelete.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/voicerecorderdelete.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/voicerecorderdelete.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/musicplayerartist.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/musicplayerartist.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/musicplayer.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/musicplayer.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/contactslist.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/contactslist.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/bookmarkslist.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/bookmarkslist.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/callslogsdelete.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/callslogsdelete.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/alarmsdeleteall.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/alarmsdeleteall.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/inputkeyboardtalkback.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/inputkeyboardtalkback.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/settings.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/settings.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/callslogs.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/callslogs.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/alarmslist.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/alarmslist.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/voicerecorder.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/voicerecorder.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/messagesinbox.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/messagesinbox.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/inputvoice.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/layout-xlarge/inputvoice.xml"
+    }
+]

@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/playerback.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/playerback.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/settings.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/settings.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/alarmsdate.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/alarmsdate.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/playernext.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/playernext.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/contactscreate.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/contactscreate.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/settingsbluetooth.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/settingsbluetooth.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/contactslist.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/contactslist.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/goback.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/goback.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/browser.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/browser.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/bookmarks.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/bookmarks.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/datetime.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/datetime.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/alarmscreate.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/alarmscreate.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/browsergoogle.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/browsergoogle.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/settingswifion.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/settingswifion.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/messagesnew.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/messagesnew.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/messagesdelete.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/messagesdelete.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/contactsdelete.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/contactsdelete.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/settingshome.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/settingshome.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/playerplay.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/playerplay.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/bookmarkscreate.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/bookmarkscreate.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/voicerecorderdelete.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/voicerecorderdelete.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/status.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/status.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/playerstop.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/playerstop.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/settingsinputmode.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/settingsinputmode.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/callslistdelete.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/callslistdelete.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/alarmslist.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/alarmslist.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/settingsnotift.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/settingsnotift.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/playernowplaying.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/playernowplaying.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/messagessend.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/messagessend.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/settingsnotifc.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/settingsnotifc.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/settingsscreen.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/settingsscreen.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/browserreadpage.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/browserreadpage.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/settingsprofile.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/settingsprofile.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/alarmsdelete.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/alarmsdelete.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/settingsprivacypolicy.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/settingsprivacypolicy.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/voiceselect.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/voiceselect.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/applications.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/applications.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/voicerecorder.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/voicerecorder.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/playerlower.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/playerlower.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/callsinputnumber.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/callsinputnumber.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/alarms.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/alarms.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/browserpagelinks.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/browserpagelinks.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/settingswifioff.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/settingswifioff.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/playerhigher.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/playerhigher.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/applicationslaunch.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/applicationslaunch.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/callslist.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/callslist.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/inputvoice.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/inputvoice.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/voicerecorderplay.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/voicerecorderplay.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/calls.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/calls.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/voicerecordercreate.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/voicerecordercreate.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/messagesreply.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/messagesreply.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/messages.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/messages.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/alarmmessage.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/alarmmessage.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/settingsspeed.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/settingsspeed.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/contacts.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/contacts.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/bookmarksgoto.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/bookmarksgoto.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/player.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/player.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/build/intermediates/res/merged/debug/drawable-ldpi/bookmarksdelete.png",
+        "source": "/home/harsh/AndroidStudioProjects/Blind Communicator1/app/src/main/res/drawable-ldpi/bookmarksdelete.png"
+    }
+]
